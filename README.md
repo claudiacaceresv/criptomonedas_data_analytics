@@ -108,4 +108,3 @@ Python | Pandas | Matplotlib | Seaborn | MySQL | Power BI
 ---
 
 _Nota: Este documento es una representación simplificada del proyecto de análisis de datos de criptomonedas y tiene fines ilustrativos. Las conclusiones y recomendaciones presentadas son hipotéticas y no constituyen asesoramiento financiero real._
-# analisis_de_datos_criptomonedas
